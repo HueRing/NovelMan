@@ -1,0 +1,2 @@
+# NovelMan
+A Novel Manager
